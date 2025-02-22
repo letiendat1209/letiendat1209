@@ -11,7 +11,13 @@
 - 📍 Currently working with React, Next.js, Vue.js, Node.js, Tailwind CSS, and more.
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,javascript,typescript,git,photoshop,ai,pr,xd" />
-    <img src="https://skillicons.dev/icons?i=mui,python,vscode,github,express,firebase,npm,java,threejs,vercel,blender,cloudflare" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,javascript,typescript,git" />
+    <img src="https://skillicons.dev/icons?i=mui,python,vscode,github,express,firebase,npm,java,vercel,cloudflare" /><br>
+</div>
+<div align="center">
+<a href="#" title="letiendat">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yunkhngn&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
+
 </div>
 ![snake gif](https://github.com/letiendat1209/letiendat1209/blob/output/github-snake-dark.svg)
