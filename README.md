@@ -8,7 +8,7 @@
 - 🧑‍💻 Organizing knowledge and code-sharing sessions
 - 🌐 Blog: [blog.letiendat.com](...almost)
 - 💼 Portfolio: [letiendat1209.com](...almost)
-- 📍 Currently working with React, Next.js, Vue.js,ASP.net, Node.js, Tailwind CSS, and more.
+- 📍 Currently working with React, Next.js, Vue.js,ASP.net, Node.js, Tailwind CSS, and more...
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,javascript,typescript,git" />
