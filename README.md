@@ -6,9 +6,9 @@
 - 🎓 Former student of Nguyen Tat Thanh University
 - 🏃‍♂️ Developer and running enthusiast
 - 🧑‍💻 Organizing knowledge and code-sharing sessions
-- 🌐 Blog: [blog.letiendat.com](...)
-- 💼 Portfolio: [letiendat1209.com](...)
-- 📍 Currently working with React, Next.js, Vue.js, Node.js, Tailwind CSS, and more.
+- 🌐 Blog: [blog.letiendat.com](...almost)
+- 💼 Portfolio: [letiendat1209.com](...almost)
+- 📍 Currently working with React, Next.js, Vue.js,ASP.net, Node.js, Tailwind CSS, and more.
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,javascript,typescript,git" />
