@@ -9,8 +9,8 @@
 - 🌐 Blog: [blog.letiendat.com](...almost)
 - 💼 Portfolio: [letiendat1209.com](...almost)
 - 📍 Currently working with React, Next.js, Vue.js,ASP.net, Node.js, Tailwind CSS, and more...
-- Hihihi
-- Chỉnh lại sau
+- Hihihi.
+- Chỉnh lại sau.
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,javascript,typescript,git" />
