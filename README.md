@@ -9,7 +9,7 @@
 - 🌐 Blog: [blog.letiendat.com](...almost)
 - 💼 Portfolio: [letiendat1209.com](...almost)
 - 📍 Currently working with React, Next.js, Vue.js,ASP.net, Node.js, Tailwind CSS, and more...
-- Hihihi..
+- Hihihi.
 - Chỉnh lại sau
 <br/>
 <div align="center">
